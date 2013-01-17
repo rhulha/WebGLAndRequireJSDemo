@@ -21,6 +21,6 @@ What do you get with this demo project ?
 * A strong case why and how to use RequireJS with WebGL
 * incl. the text and domReady extensions for RequireJS.
 
-_Please note_ this is _not a full featured engine_ like ThreeJS or CubicVRJS.
+__Please note__ this is __not a full featured engine__ like ThreeJS or CubicVRJS.
 
-This project is aimed at giving programmers a _good starting point_ if they want to work with _pure WebGL_.
+This project is aimed at giving programmers a __good starting point__ if they want to work with __pure WebGL__.
