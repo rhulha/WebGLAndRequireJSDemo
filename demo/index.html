@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>WebGL and RequireJS Demo</title>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<script type="text/javascript" data-main="scripts/main" src="scripts/require.js"></script>
+<script>
+	window.fillCanvas = function ()
+    {
+        var canvas = document.getElementById("webgl-canvas");
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+    }
+</script>
+</head>
+
+<body marginheight="0" marginwidth="0" bgcolor="black" id="body" onload="fillCanvas()">
+  <div id="topLeftDiv" style="position: fixed; top: 0; left: 0; color: SkyBlue; font-family: Arial">Fly backwards with W,A,S,D and press the left mouse button a few times</div>
+  <canvas id="webgl-canvas" style="border: none" width="800" height="600"></canvas>
+</body>
+
+</html>
