@@ -1,9 +1,10 @@
-WebGLAndRequireJSDemo
+WebGL and RequireJS Demo
 =====================
 
 A project that shows how great WebGL and RequireJS work together
 
 View a live demo here: http://rhulha.github.com/WebGLAndRequireJSDemo/demo
+
 View a a prettier version of this text here: http://rhulha.github.com/WebGLAndRequireJSDemo
 
 What do you get with this demo project ?
@@ -20,6 +21,6 @@ What do you get with this demo project ?
 * A strong case why and how to use RequireJS with WebGL
 * incl. the text and domReady extensions for RequireJS.
 
-Please note this is not a full featured engine like ThreeJS or CubicVRJS.
+_Please note_ this is _not a full featured engine_ like ThreeJS or CubicVRJS.
 
-This project is aimed at giving programmers a good starting point if they want to work with pure WebGL.
+This project is aimed at giving programmers a _good starting point_ if they want to work with _pure WebGL_.
