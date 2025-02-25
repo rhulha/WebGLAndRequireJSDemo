@@ -3,9 +3,9 @@ WebGL and RequireJS Demo
 
 A project that shows how great WebGL and RequireJS work together
 
-View a live demo here: http://rhulha.github.com/WebGLAndRequireJSDemo/demo
+View a live demo here: http://rhulha.github.io/WebGLAndRequireJSDemo/demo
 
-View a a prettier version of this text here: http://rhulha.github.com/WebGLAndRequireJSDemo
+View a a prettier version of this text here: http://rhulha.github.io/WebGLAndRequireJSDemo
 
 What do you get with this demo project ?
 
